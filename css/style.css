@@ -2125,7 +2125,7 @@ div.large_cont_p p {
 /**== parallax cont side ==*/
 
 .section_information {
-	background: url(../images/layout_img/info/info.jpg);
+	background: url(../images/layout_img/info/dark_bg.JPG);
 	min-height: auto;
 	
 	background-size: cover;
