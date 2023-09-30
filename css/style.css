@@ -810,6 +810,7 @@ hr.dottad_border {
 .main_heading {
 	position: relative;
 	margin-bottom: 40px;
+	color: #000;
 }
 
 .main_heading h3 {
@@ -827,6 +828,18 @@ hr.dottad_border {
 	display: block;
 	width: 90px;
 	height: 7px;
+	background: #00aeed;
+	position: relative;
+	right: 0;
+	bottom: 0;
+	margin: 10px auto 0;
+}
+
+.main_heading hr {
+	content: "";
+	display: block;
+	
+	height: 1px;
 	background: #00aeed;
 	position: relative;
 	right: 0;
@@ -2137,8 +2150,8 @@ div.large_cont_p p {
 .section_information h4 {
 	margin: 30px 0;
 	font-size: 35px;
-	color: #0637e6;
-	background: rgba(255, 255, 255, 0.526);
+	color: #00aeed;
+	background: rgba(255, 255, 255, 0.97);
 	letter-spacing: -0.5px;
 	line-height: 45px;
 	font-weight: 800;
@@ -3619,11 +3632,11 @@ footer ul.social_icons {
 	background-position: right bottom;
 	
 	background-size: cover;
-	background-image: url(../images/layout_img/dark_bg_img.png);
+	background-image: url(../images/layout_img/bannier_karmagrippa.png);
 }
 
 .post_time {
-	margin: 20px 0 15px;
+	margin: 15px 0 15px;
 }
 
 .post_time p {
