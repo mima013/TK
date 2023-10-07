@@ -2150,8 +2150,8 @@ div.large_cont_p p {
 .section_information h4 {
 	margin: 30px 0;
 	font-size: 35px;
-	color: #00aeed;
-	background: rgba(255, 255, 255, 0.97);
+	color: #0f546eda;
+	/* background: rgba(255, 255, 255, 0.245); */
 	letter-spacing: -0.5px;
 	line-height: 45px;
 	font-weight: 800;
@@ -2165,9 +2165,10 @@ div.large_cont_p p {
 	line-height: 46px;
 	font-weight: 600;
 	letter-spacing: 0.5px;
-	background: rgba(255, 255, 255, 0.695);
-	border: solid #000 2px;
+	/* background: rgba(255, 255, 255, 0.695); */
+	border: solid #e9e7e7 2px;
 	font-size: 15px;
+	color: white;
 }
 
 .read-btn:hover,
